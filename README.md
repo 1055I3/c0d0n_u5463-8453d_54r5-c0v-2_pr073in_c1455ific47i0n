@@ -8,4 +8,5 @@ This is the vanilla version of the code, as it was submitted with the term paper
 
 The license remains the same.
 A subset of the requirements listed in the master branch is used.
+The only addition is *faiss-cpu 1.7.4* package.
 There is no need for further description.
