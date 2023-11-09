@@ -1,2 +1,7 @@
-# c0d0n_u5463-8453d_54r5-c0v-2_pr073in_c1455ific47i0n
-Elements of my term paper in Data Mining 2 at Faculty of Mathematics, University of Belgrade.
+# Codon Usage Based SARS-CoV-2 Protein Classification
+
+This is the vanilla version of the code, as it was submitted with the term paper.
+
+The license remains the same.
+A subset of the requirements listed in the master branch is used.
+There is no need for further description.
