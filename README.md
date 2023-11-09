@@ -1,3 +1,7 @@
+[![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://en.wikipedia.org/wiki/Project_Jupyter)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Windows](https://img.shields.io/badge/Windows-0078D6)](https://en.wikipedia.org/wiki/Windows_10)
+
 # Codon Usage Based SARS-CoV-2 Protein Classification
 
 Elements of my term paper in Data Mining 2 at Faculty of Mathematics, University of Belgrade.
@@ -13,9 +17,9 @@ Accuracy, precision, recall, and f1 scores were observed, along with confusion m
 
 ## Requirements
 
-To run this notebook, I used *Python 3.11.4* and the libraries given in the following list.
+To run this notebook, I used *Python 3.11.4* on *Windows 10 Pro* 22H2 and the libraries given in the following list.
 
-|                 |        |
+| package         | ver.   |
 |      :---:      | :---:  |
 | notebook        | 7.0.4  |
 | pandas          | 2.1.1  |
