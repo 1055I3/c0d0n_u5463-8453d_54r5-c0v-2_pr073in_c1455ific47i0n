@@ -12,7 +12,7 @@ The task was to classify different protein types of *SARC-CoV-2* virus, based on
 A dataset was given that included protein types and coding sequences, among other data.
 After extracting features and preprocessing the data, a number of visualization techniques were applied, *t-SNE* among others.
 Finally, seven different classifiers were trained and analysed.
-Classifier behavinors were evaluated on training and test data.
+Classifier behavinors were evaluated on training and test datasets.
 Accuracy, precision, recall, and f1 scores were observed, along with confusion matrix and precision-recall curves.
 
 ## Requirements
