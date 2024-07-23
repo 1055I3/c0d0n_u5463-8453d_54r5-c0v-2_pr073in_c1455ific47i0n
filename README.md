@@ -48,4 +48,4 @@ The complete text can be found in *LICENCE* file.
 
 ## Additional
 
-I would like to thank professor [*Nenad Mitic*](https://poincare.matf.bg.ac.rs/~nenad.mitic/) for his guidance and mentorship on this project.
+I would like to thank professor [*Nenad Mitić*](https://poincare.matf.bg.ac.rs/~nenad.mitic/) for his guidance and mentorship on this project.
